@@ -28,8 +28,8 @@ This Python script ensures the synchronization of two folders: a `source` folder
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yagop27/File-Synchronization-Project.git
-   cd File-Synchronization-Project
+   git clone https://github.com/yagop27/Folder-Synchronization-Project.git
+   cd Folder-Synchronization-Project
    
 Ensure Python is installed and added to your PATH.
 
