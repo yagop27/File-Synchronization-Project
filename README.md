@@ -62,18 +62,18 @@ If the replica folder does not exist, the script will create it automatically.
 
 The script logs all actions, including:
 
-  1- Files or directories copied, updated, or deleted.
-  
-  2- Any errors encountered during the synchronization process.
-  
-  3- All logs are stored in the specified log file and displayed in the console for real-time feedback.
+    1- Files or directories copied, updated, or deleted.
+    
+    2- Any errors encountered during the synchronization process.
+    
+    3- All logs are stored in the specified log file and displayed in the console for real-time feedback.
 
 <h3>Error Handling</h3>
-
-  1- If the source folder does not exist, the script logs an error and stops.
   
-  2- If the log file or directory cannot be created due to permission issues, the script logs the issue and exits.
-  
+    1- If the source folder does not exist, the script logs an error and stops.
+    
+    2- If the log file or directory cannot be created due to permission issues, the script logs the issue and exits.
+    
 Supports graceful exit on Ctrl+C.
 
 License
